@@ -1,0 +1,18 @@
+.footer {
+    padding: 30px;
+    text-align: center;
+    color: white;
+    background-color: #686AAC;
+    background-size: cover;
+    height: 40px;
+}
+
+.footer h1 {
+    font-size: 20px;
+}
+
+.footer img {
+    margin-top: 10px;
+    width: 40vw;
+    height: 60vh;
+}
