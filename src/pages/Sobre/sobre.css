@@ -11,9 +11,9 @@ hr {
     margin-bottom: 12px;
 }
 
-.apresentacao img {
+.fotoPerfil {
     width: 20%;
-    margin: 20px;
+    margin: 10px;
     border: 4px solid rgb(237, 101, 241);
     border-radius: 40px;
     box-shadow: 1px 2px 1px 1px rgb(128, 50, 131);
@@ -25,6 +25,11 @@ hr {
     margin-left: 10px;
 }
 
-.textos p {
+.present-title{
+    font-size: 1.6rem;
+}
+
+.present-text {
  color: rgb(186, 59, 190);
+ font-size: 1.1rem;
 }

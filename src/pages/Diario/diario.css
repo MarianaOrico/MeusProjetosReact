@@ -10,7 +10,7 @@ main {
     align-items: center;
   }
 
-  .sections img {
+  .imgGif {
     width: 40%;
     border-radius: 15px;
     border: 1px inset black;

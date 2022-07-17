@@ -1,23 +1,24 @@
 .card {
     width: 200px;
     background-color: rgb(237, 101, 241);
-    padding: 10px;
     border: 1px groove rgb(128, 50, 131);
     border-radius: 10px;
+    padding: 20px;
     margin: 20px;
     align-items: center;
     text-align: center;
 }
 
-img {
+.imgContatos {
     width: 30%;
+    padding: 10px;
 }
 
-a {
+.linkContatos {
     text-decoration: none;
     color: black;
 }
 
-p {
+.paragraph {
     color: black;
 }

@@ -27,7 +27,7 @@ const list = [
     {
         id: 3,
         nome: 'Studio Ghibli',
-        descricao: 'Um site em JavaScript que mostra os filmes do Studio Ghibli',
+        descricao: 'Uma requisição de API dos filmes do Studio Ghibli',
         conteudo: 'Requisição de API em prática.',
         imagem: '#',
         link: 'https://studioghiblifilmes.netlify.app/'
