@@ -1,0 +1,23 @@
+.card {
+    width: 200px;
+    background-color: rgb(237, 101, 241);
+    padding: 10px;
+    border: 1px groove rgb(128, 50, 131);
+    border-radius: 10px;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    color: black;
+}

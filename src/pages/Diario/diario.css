@@ -1,0 +1,39 @@
+main {
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .sections {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sections img {
+    width: 40%;
+    border-radius: 15px;
+    border: 1px inset black;
+    box-shadow: 1px 1px 1px 2px solid rgb(243, 126, 126);
+  }
+
+  .sections h2 {
+    color: black;
+  }
+
+  .sections p {
+    color: black;
+    text-align: justify;
+  }
+
+  
+  .Github, .HTML, .CSS, .JavaScript, .React {
+    margin: 20px 28px;
+    background-image: linear-gradient(170deg, #ff63d1 0, #f756ce 25%, #e548ca 50%, #d23ac6 75%, #c02fc4 100%);
+    padding: 20px;
+    border-radius: 20px;
+    width: 800px;
+    height: 450px;
+    border: 1px inset black;
+  }
+  

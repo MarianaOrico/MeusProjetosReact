@@ -24,8 +24,8 @@
     border: 0.5 solid #686AAC;
     padding: 12px 24px;
     border-radius: 8px;
-    height: 100px;
-    width: 70%; 
+    height: 60px;
+    width: 45%; 
   }
   
   button {
@@ -41,13 +41,14 @@
   }
   
   .add-task {
-    background:#686AAC;
-    width: 300px;
+    background:rgb(186, 59, 190);
+    width: 200px;
+    cursor: pointer;
   }
   
   .remove-task {
     background:rgb(230, 79, 79);
-    
+    cursor: pointer;    
   }
   
   main {

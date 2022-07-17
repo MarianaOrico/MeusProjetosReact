@@ -1,0 +1,33 @@
+.btn-container {
+    padding: 40px;
+    display: flex;
+    flex-direction: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.btn {
+    padding: 20px;
+    background-color: rgb(71, 44, 221);
+    box-shadow: 5px 5px 5px black;
+    margin: 10px;
+}
+
+.btn span {
+    position: relative;
+    transition: 0.5s;
+}
+
+.button span:after {
+    content: "\00bb";
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}

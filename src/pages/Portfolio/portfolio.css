@@ -1,0 +1,50 @@
+.cartao-container {
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 75%;
+    align-items: center;
+    height: 75%;
+    background-color: rgb(237, 101, 241);
+    text-align: center;
+    opacity: 0.8;
+}
+
+.cartao {
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin: 40px;
+    align-items: center;
+}
+
+.cartao img {
+    width: 500px;
+    height: 320px;
+}
+
+.skills {
+    padding-top: 50px;
+    text-align: center;
+    color: #686AAC;
+    font-size: 48px;
+}
+
+.repo-container{
+    display: block;
+}
+
+.repo {
+    padding: 4px;
+    width: 200px;
+    height: 18 0px;
+    background-image: linear-gradient(140deg, #569168 0, #418862 25%, #247d5a 50%, #007253 75%, #006950 100%);
+    margin: 10px;
+    border-radius: 8px;
+}
+
+h2{
+    margin-left: 46px;
+}
