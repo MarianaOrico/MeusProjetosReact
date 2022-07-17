@@ -1,10 +1,10 @@
 .menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    width: 80%;
-    margin: 0 auto;
+    list-style-type: none;  
+    padding: 0px;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+    align-items: flex-end;
 }
 
 .item {
@@ -15,8 +15,7 @@
     font-size: 1.3em;
     font-weight: 600;
     display: block;
-    text-align: center;
-    padding: 14px 16px;
+    padding: 14px;
     text-decoration: none;
     color: rgb(190, 80, 194);
 }

@@ -13,31 +13,31 @@ const list = [
         nome: 'M de Maravilhosa',
         descricao: 'Uma landing page sobre a história da Nise de Olveira.',
         conteudo: 'Feito com html, css e js.',
-        imagem: '#',
+        imagem: 'https://media.giphy.com/media/sjkKz3yKlsu76Ufpku/giphy.gif',
         link: 'https://m-de-maravilhosa-mariana-orico.netlify.app/'
     },
     {
         id: 2,
         nome: 'TO DO list',
-        descricao: 'Uma aplicação em JavaScript para fazer um to do list.',
+        descricao: 'Uma aplicação em JavaScript para fazer um To Do list.',
         conteudo: 'Utilização de eventos do JavaScript.',
-        imagem: '#',
+        imagem: 'https://media.giphy.com/media/ilFXbGqVoCa3oorTCN/giphy.gif',
         link: 'https://projeto-list-to-do.netlify.app/'
     },
     {
         id: 3,
         nome: 'Studio Ghibli',
-        descricao: 'Uma requisição de API dos filmes do Studio Ghibli',
+        descricao: 'Uma requisição de API dos filmes do Studio Ghibli.',
         conteudo: 'Requisição de API em prática.',
-        imagem: '#',
+        imagem: 'https://media.giphy.com/media/IS9ka3BAzMXBX82i0d/giphy.gif',
         link: 'https://studioghiblifilmes.netlify.app/'
     },
     {
         id: 4,
         nome: 'TV Shows',
-        descricao: 'Um site em JavaScript para demonstrar uso de Dom',
+        descricao: 'Um site em JS para demonstrar uso de DOM e JSON.',
         conteudo: 'Javacript e DOM',
-        imagem: '#',
+        imagem: 'https://media.giphy.com/media/FJ9J8CbAuOUU26ZdEo/giphy.gif',
         link: 'https://tvseriesjs.netlify.app/'
     }
 ]

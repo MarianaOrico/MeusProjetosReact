@@ -14,7 +14,7 @@ function Diario() {
             <main>
                 <section className='sections'>
                     <div className='Github'>
-                        <h2>Github</h2>
+                        <h2>Git e Github</h2>
                         <img className="imgGif" src='https://media3.giphy.com/media/l0He0cVv8lGggpruo/giphy.gif' />
                         <p>Aprender Git e Github foi um ótimo começo, pois consegui entender muito bem. Aprendemos a utilizar o terminal Git Bash e o terminal do VS Code, podendo subir os projetos individuais, a compartilhar o mesmo projeto com várias pessoas e commitando pedaços de códigos com o cuidado para não chocarem entre si, além de conseguir puxar atualizações do projeto. Com certeza saber o idioma inglês facilitou na leitura dos erros e assim pude corrigir com facilidade.</p>
                     </div>
